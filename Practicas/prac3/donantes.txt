@@ -1,0 +1,6 @@
+Maria,Alfaya,B,negativo,1
+Xexu,Torronteras,A,negativo,3
+Rafa,Cepeda,0,positivo,7
+Pepe,Dominguez,AB,negativo,6
+a,a,0,negativo,2
+b,b,0,negativo,4
